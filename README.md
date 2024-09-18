@@ -12,9 +12,9 @@
 
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-I am currently a senior student at Ton Duc Thang University, pursuing a degree in Computer Science. My academic journey has been enriched with extensive research and practical experience in natural language processing, data mining, and machine learning. During my studies, I have been actively involved in research at the Department of Information Technology, focusing on NLP and data mining. This academic foundation has equipped me with a strong theoretical knowledge base and practical skills essential for the AI/ML Internship role.
 <br>
+I am Luan Tran, a senior student at Ton Duc Thang University, pursuing a degree in Computer Science. I am passionate about Artificial Intelligence, with a particular interest in machine learning algorithms, natural language processing, computer vision, and large language models
+<br><br>
 
 
 
@@ -36,12 +36,8 @@ I am currently a senior student at Ton Duc Thang University, pursuing a degree i
     <img alt="Java" src="https://img.shields.io/badge/Java-%23007396.svg?style=plastic&logo=java&logoColor=white">
   </a>
     &emsp;
-   <a href="https://www.python.org" target="_blank">
+  <a href="https://www.python.org" target="_blank">
     <img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?style=plastic&logo=python&logoColor=white">
-  </a>
-      &emsp;
-   <a href="https://www.python.org" target="_blank">
-    <img alt="Python" src="https://img.shields.io/badge/CSharp-%23007396.svg?style=plastic&logo=dotnet&logoColor=white">
   </a>
 </p>
 
