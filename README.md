@@ -13,7 +13,7 @@
 <picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
 <br><br>
-
+I am currently a senior student at Ton Duc Thang University, pursuing a degree in Computer Science. My academic journey has been enriched with extensive research and practical experience in natural language processing, data mining, and machine learning. During my studies, I have been actively involved in research at the Department of Information Technology, focusing on NLP and data mining. This academic foundation has equipped me with a strong theoretical knowledge base and practical skills essential for the AI/ML Internship role.
 <br>
 
 
