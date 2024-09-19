@@ -54,9 +54,3 @@ I am Luan Tran, a senior student at Ton Duc Thang University, pursuing a degree 
 	<a href="https://www.linkedin.com/in/luann03/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" alt="LinkedIn"/></a>
 	<a href="https://www.facebook.com/tranquangluann/"><img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" alt="Facebook"/></a>
 </p>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
