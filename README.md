@@ -11,7 +11,7 @@
 ## About me
 
 <br>
-I am Luan Tran, a senior student at Ton Duc Thang University, pursuing a degree in Computer Science. I am passionate about Artificial Intelligence, with a particular interest in machine learning algorithms, natural language processing, computer vision, and large language models
+I am Luan Tran, a senior student at Ton Duc Thang University, pursuing a degree in Computer Science. I am passionate about Artificial Intelligence, with a particular interest in machine learning algorithms, natural language processing, computer vision, and large language models.
 <br><br>
 
 ###
